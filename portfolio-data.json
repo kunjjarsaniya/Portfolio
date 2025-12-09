@@ -1,0 +1,215 @@
+{
+  "settings": {
+    "name": "Kunj Jarsaniya",
+    "title": "MERN Stack Developer",
+    "location": "India",
+    "summary": "A skilled MERN Stack Developer proficient in building responsive, real-time web applications with a focus on performance.",
+    "profileImage": "https://res.cloudinary.com/dyj0y0vsp/image/upload/v1765287784/Resume-image_w6xnzf.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:kunjjarsaniya07@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "https://drive.google.com/file/d/1C0ugR0dZm6ID-ELGjbybpZj1wqM7hpPk/view?usp=sharing"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "HTML",
+          "CSS",
+          "Tailwind CSS",
+          "SCSS",
+          "React JS",
+          "NextJS",
+          "Node JS",
+          "Express JS",
+          "Python",
+          "LangChain",
+          "Mongo DB",
+          "Prisma ORM",
+          "GitHub",
+          "VS Code",
+          "Vercel",
+          "Render",
+          "Docker"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": false,
+      "title": "Work Experience",
+      "items": []
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Projects",
+      "items": [
+        {
+          "title": "Masterji - Modern Learning Management System (LMS)",
+          "description": "Masterji is a comprehensive, full-stack Learning Management System designed to create, manage, and deliver online courses with an intuitive, user-friendly interface. The platform features a robust course management system with drag-and-drop functionality, rich text editing, and secure file management. It supports multiple user roles, including students and instructors, with a focus on providing a seamless learning experience.",
+          "tags": [
+            "NextJS",
+            "TypeScript",
+            "React",
+            "NodeJS",
+            "PostgreSQL"
+          ],
+          "previewUrl": "https://mastrji.vercel.app",
+          "repoUrl": "https://github.com/kunjjarsaniya/Mastrji-Final-Year-Project"
+        },
+        {
+          "title": "AI Learning Assistant - \"RankUp\"",
+          "description": "Built a React + Node.js application integrating Google Gemini for AI content generation. Implemented document ingestion (PDF/TXT/PNG/JPG), automated flashcard/quiz generation, JWT auth, spaced repetition, and an analytics dashboard. Deployed backend and frontend-ready for Vercel.",
+          "tags": [
+            "React",
+            "Tailwind CSS",
+            "Express",
+            "MongoDB",
+            "Google Gemini API"
+          ],
+          "previewUrl": "https://rankup-kunj.vercel.app",
+          "repoUrl": "https://github.com/kunjjarsaniya/Ai-Learning-Assistant-APP"
+        },
+        {
+          "title": "Real-time Chat Application - \"QuickChat\"",
+          "description": "A full-stack real-time chat application that enables users to communicate instantly with others. The application features user authentication, real-time messaging, and modern UI/UX design. Built with a React frontend and Node.js/Express backend, it leverages WebSockets for seamless real-time communication.",
+          "tags": [
+            "React",
+            "NodeJS",
+            "MongoDB",
+            "SocketIO",
+            "Cloudinary"
+          ],
+          "previewUrl": "https://quick-chat-kunj.vercel.app",
+          "repoUrl": "https://github.com/kunjjarsaniya/Chat-app"
+        },
+        {
+          "title": "\"CaptionKatha\" - AI Social Media Caption Generator",
+          "description": "CaptionKatha is an AI-powered web application that generates culturally relevant, engaging captions for social media content in multiple languages. Built with the MERN stack and powered by Google's Gemini AI, it helps content creators save time while maintaining authenticity in their posts.",
+          "tags": [
+            "React",
+            "SCSS",
+            "Node",
+            "Express",
+            "Google Gemini AI",
+            "Vercel"
+          ],
+          "previewUrl": "https://captionkatha.vercel.app",
+          "repoUrl": "https://github.com/kunjjarsaniya/Social-Media-Caption-Generate-Backend-Project_Cohort"
+        },
+        {
+          "title": "Moody-Player",
+          "description": "Built a web application that detects real-time facial expressions using face-api.js and recommends music based on user mood. Designed a responsive and intuitive interface with seamless integration to a RESTful API backend, delivering personalized music suggestions powered by AI-driven emotion detection.",
+          "tags": [
+            "face-api.js",
+            "RESTful API",
+            "Emotion Detection"
+          ],
+          "previewUrl": "",
+          "repoUrl": "https://github.com/kunjjarsaniya/Moody-Player"
+        },
+        {
+          "title": "AI ChatBot - \"Chatur\"",
+          "description": "Developed a full-stack chat application using React, Redux Toolkit on the frontend, and Node.js, Express, MongoDB, and Socket.IO on the backend. Integrated Google's GenAI and Pinecone for AI-powered features, with secure JWT-based authentication and bcrypt password hashing. Implemented real-time messaging, a responsive UI, and adhered to modern development practices including ESLint, environment configuration, and scalable architecture.",
+          "tags": [
+            "React",
+            "Node",
+            "Express",
+            "MongoDB",
+            "Google GenAI",
+            "Pinecone"
+          ],
+          "previewUrl": "",
+          "repoUrl": "https://github.com/kunjjarsaniya/AI_Chatbot_Cohort"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Noble University",
+          "degree": "Diploma In Computer Engineering",
+          "period": "2023 - 2026"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "YuthTech-25 HACKATHON",
+          "description": "Noble University Hackathon participant, showcasing engineering initiative and problem-solving skills in high-level innovation challenges like SIH."
+        },
+        {
+          "title": "Job Ready Cohort Certificate",
+          "description": "Job-Ready Full Stack Developer certified by Sheryians Coding School. Proficient in Frontend, Backend, DS/A, and DevOps (CI/CD, Docker, Kubernetes)"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "kunjjarsaniya07@gmail.com",
+      "phone": "+91 9104012048",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "www.linkedin.com/in/kunj-jarsaniya07",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/kunjjarsaniya",
+          "icon": "github"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": false,
+    "copyright": "© 2025 Kunj Jarsaniya. All rights reserved."
+  }
+}
