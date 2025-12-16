@@ -16,7 +16,7 @@
         },
         {
           "text": "View Resume",
-          "url": "https://drive.google.com/file/d/1ybOmMysLkQrT8uB07Fhoi1q2ufNBsHdY/view?usp=sharing"
+          "url": "https://drive.google.com/file/d/1IWQmQ42tbLf9PAl22HK3paPluTfjvcsv/view?usp=sharing"
         }
       ]
     },
@@ -151,12 +151,16 @@
       "title": "Achievements & Certifications",
       "items": [
         {
-          "title": "YuthTech-25 HACKATHON",
-          "description": "Noble University Hackathon participant, showcasing engineering initiative and problem-solving skills in high-level innovation challenges like SIH."
+          "title": "NU-Tech 2025 HACKATHON",
+          "description": "where I contributed to developing an educational programming game using PHP, HTML, CSS, and JavaScript (DOM) to teach core coding concepts through interactive challenges."
         },
         {
           "title": "Job Ready Cohort Certificate",
           "description": "Job-Ready Full Stack Developer certified by Sheryians Coding School. Proficient in Frontend, Backend, DS/A, and DevOps (CI/CD, Docker, Kubernetes)"
+        },
+        {
+          "title": "YuthTech-25 HACKATHON",
+          "description": "Noble University Hackathon participant, showcasing engineering initiative and problem-solving skills in high-level innovation challenges like SIH."
         }
       ]
     },
