@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Kunj Jarsaniya",
-    "title": "MERN Stack Developer",
+    "title": "MERN Stack developer",
     "location": "India",
-    "summary": "A skilled MERN Stack Developer proficient in building responsive, real-time web applications with a focus on performance.",
+    "summary": "Experienced MERN Stack developer skilled in building responsive web applications with secure authentication and AI-powered features.",
     "profileImage": "https://res.cloudinary.com/dyj0y0vsp/image/upload/v1765287784/Resume-image_w6xnzf.jpg"
   },
   "sections": {
@@ -16,7 +16,7 @@
         },
         {
           "text": "View Resume",
-          "url": "https://drive.google.com/file/d/1IWQmQ42tbLf9PAl22HK3paPluTfjvcsv/view?usp=sharing"
+          "url": "https://drive.google.com/file/d/16VFalUwCDB4dzrRG8L-YZMbhTNxqoDAU/view?usp=sharing"
         }
       ]
     },
@@ -31,7 +31,6 @@
           "Tailwind CSS",
           "SCSS",
           "React JS",
-          "NextJS",
           "Node JS",
           "Express JS",
           "Python",
@@ -59,10 +58,10 @@
           "title": "Masterji - Modern Learning Management System (LMS)",
           "description": "Masterji is a comprehensive, full-stack Learning Management System designed to create, manage, and deliver online courses with an intuitive, user-friendly interface. The platform features a robust course management system with drag-and-drop functionality, rich text editing, and secure file management. It supports multiple user roles, including students and instructors, with a focus on providing a seamless learning experience.",
           "tags": [
-            "NextJS",
-            "TypeScript",
-            "React",
-            "NodeJS",
+            "NextJS ",
+            "TypeScript ",
+            "React ",
+            "NodeJS ",
             "PostgreSQL"
           ],
           "previewUrl": "https://mastrji.vercel.app",
@@ -82,26 +81,55 @@
           "repoUrl": "https://github.com/kunjjarsaniya/Ai-Learning-Assistant-APP"
         },
         {
-          "title": "Real-time Chat Application - \"QuickChat\"",
-          "description": "A full-stack real-time chat application that enables users to communicate instantly with others. The application features user authentication, real-time messaging, and modern UI/UX design. Built with a React frontend and Node.js/Express backend, it leverages WebSockets for seamless real-time communication.",
+          "title": "Docly Cli",
+          "description": "Docly is a documentation generation tool that automates creating comprehensive project documentation using AI. It supports generating SRS, architecture diagrams, test cases, and more.",
+          "tags": [
+            "NodeJS",
+            "Express",
+            "AI",
+            "Documentation"
+          ],
+          "previewUrl": "https://docly-kunj.vercel.app",
+          "repoUrl": "https://github.com/kunjjarsaniya/docly",
+          "npmUrl": "https://www.npmjs.com/package/docly-cli"
+        },
+        {
+          "title": "AlertWise",
+          "description": "Built in just 24 hours by a collaborative team, this disaster preparedness and response education system leverages React for the frontend and Node.js for a fully functional backend.",
           "tags": [
             "React",
             "NodeJS",
+            "Disaster Management",
+            "Education",
             "MongoDB",
-            "SocketIO",
-            "Cloudinary"
+            "Express",
+            "Google Gemini API",
+            "Tailwind CSS"
+          ],
+          "previewUrl": "https://alertwise.vercel.app",
+          "repoUrl": "https://github.com/ZeelJasani/AlertWise"
+        },
+        {
+          "title": "Real-time Chat Application - \"QuickChat\"",
+          "description": "A full-stack real-time chat application that enables users to communicate instantly with others. The application features user authentication, real-time messaging, and modern UI/UX design. Built with a React frontend and Node.js/Express backend, it leverages WebSockets for seamless real-time communication.",
+          "tags": [
+            "React ",
+            "NodeJS ",
+            "MongoDB ",
+            "SocketIO ",
+            "Cloudinary "
           ],
           "previewUrl": "https://quick-chat-kunj.vercel.app",
           "repoUrl": "https://github.com/kunjjarsaniya/Chat-app"
         },
         {
-          "title": "\"CaptionKatha\" - AI Social Media Caption Generator",
+          "title": "CaptionKatha - AI Social Media Caption Generator",
           "description": "CaptionKatha is an AI-powered web application that generates culturally relevant, engaging captions for social media content in multiple languages. Built with the MERN stack and powered by Google's Gemini AI, it helps content creators save time while maintaining authenticity in their posts.",
           "tags": [
             "React",
             "SCSS",
-            "Node",
-            "Express",
+            "NodeJS",
+            "ExpressJS",
             "Google Gemini AI",
             "Vercel"
           ],
@@ -110,22 +138,22 @@
         },
         {
           "title": "Moody-Player",
-          "description": "Built a web application that detects real-time facial expressions using face-api.js and recommends music based on user mood. Designed a responsive and intuitive interface with seamless integration to a RESTful API backend, delivering personalized music suggestions powered by AI-driven emotion detection.",
+          "description": "Built a web application that detects real-time facial expressions using face-api.js and recommends music based on user mood. Designed a responsive and intuitive interface with seamless integration to a RESTful API backend, delivering personalized music suggestions powered by AI-driven emotion detection.\n",
           "tags": [
             "face-api.js",
             "RESTful API",
-            "Emotion Detection"
+            " Emotion Detection"
           ],
           "previewUrl": "",
           "repoUrl": "https://github.com/kunjjarsaniya/Moody-Player"
         },
         {
           "title": "AI ChatBot - \"Chatur\"",
-          "description": "Developed a full-stack chat application using React, Redux Toolkit on the frontend, and Node.js, Express, MongoDB, and Socket.IO on the backend. Integrated Google's GenAI and Pinecone for AI-powered features, with secure JWT-based authentication and bcrypt password hashing. Implemented real-time messaging, a responsive UI, and adhered to modern development practices including ESLint, environment configuration, and scalable architecture.",
+          "description": "Developed a full-stack AI-powered chat app using React, Redux Toolkit, Node.js, Express, MongoDB, Socket.IO, Google GenAI, and JWT authentication.",
           "tags": [
             "React",
-            "Node",
-            "Express",
+            "NodeJS",
+            "ExpressJS",
             "MongoDB",
             "Google GenAI",
             "Pinecone"
@@ -141,8 +169,8 @@
       "items": [
         {
           "institution": "Noble University",
-          "degree": "Diploma In Computer Engineering",
-          "period": "2023 - 2026"
+          "degree": "Diploma In Computer engineering",
+          "period": "2024 - 2026"
         }
       ]
     },
@@ -151,8 +179,8 @@
       "title": "Achievements & Certifications",
       "items": [
         {
-          "title": "NU-Tech 2025 HACKATHON",
-          "description": "where I contributed to developing an educational programming game using PHP, HTML, CSS, and JavaScript (DOM) to teach core coding concepts through interactive challenges."
+          "title": "NU-Tech 2026 Hackathon",
+          "description": "Participated in the NU-Tech 2026 Hackathon with the AlertWise project focusing on Disaster Preparedness and Response Education System."
         },
         {
           "title": "Job Ready Cohort Certificate",
@@ -161,6 +189,10 @@
         {
           "title": "YuthTech-25 HACKATHON",
           "description": "Noble University Hackathon participant, showcasing engineering initiative and problem-solving skills in high-level innovation challenges like SIH."
+        },
+        {
+          "title": "NU-Tech 2025 Hackathon",
+          "description": "Developed an educational game that teaches fundamental programming concepts through interactive challenges and real‑world problem scenarios, built in just 24 hours using PHP by a collaborative team."
         }
       ]
     },
@@ -176,7 +208,7 @@
       "items": [
         {
           "platform": "linkedin",
-          "url": "www.linkedin.com/in/kunj-jarsaniya07",
+          "url": "https://linkedin.com/in/kunjjarsaniya-07",
           "icon": "linkedin"
         },
         {
@@ -201,6 +233,10 @@
       {
         "name": "Projects",
         "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
       },
       {
         "name": "Education",
